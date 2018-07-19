@@ -20,12 +20,12 @@
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
+    "name": "San juan surf",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
     "price": 150,
     "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "lat": 16.6565645,
+    "lng": 120.3203105
   },
   {
     "id": 205,
