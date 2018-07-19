@@ -3,7 +3,7 @@
   {
     "id": 333,
     "name": "try",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
     "priceCurrency": "PHP",
     "lat": 16.847270,
     "lng": 120.351765
