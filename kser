@@ -19,11 +19,11 @@
     "lng": 120.324305
   },
   {
-    "id": 201,
+    "id": 200,
     "name": "San juan surf",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
-    "price": 150,
-    "priceCurrency": "EUR",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/san-juan-surf-resort.jpg",
+    "price": 1500,
+    "priceCurrency": "PHP",
     "lat": 16.6565645,
     "lng": 120.3203105
   },
