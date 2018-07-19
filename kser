@@ -29,12 +29,12 @@
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
+    "name": "CSI mall",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
-    "price": 115,
-    "priceCurrency": "EUR",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat": 16.6290318,
+    "lng": 120.3233058
   },
   {
     "id": 210,
