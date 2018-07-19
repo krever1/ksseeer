@@ -10,13 +10,13 @@
     "lng": 120.351765
   },
   {
-    "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
+    "id": 444,
+    "name": "Marrand",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
-    "price": 200,
+    "price": 150,
     "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "lat": 16.543952, 
+    "lng": 120.324305
   },
   {
     "id": 201,
