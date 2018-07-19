@@ -14,7 +14,7 @@
     "name": "Marrand",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/s0.jpg",
     "price": 150,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 16.543952, 
     "lng": 120.324305
   },
@@ -47,11 +47,29 @@
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Ma haus",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
     "price": 90,
     "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 16.5253231,
+    "lng": 120.3404171
+  }
+  {
+    "id": 211,
+    "name": "Ma haus",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "EUR",
+    "lat": 16.5253231,
+    "lng": 120.3404171
+  }
+  {
+    "id": 211,
+    "name": "Ma haus",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "EUR",
+    "lat": 16.5253231,
+    "lng": 120.3404171
   }
 ]
