@@ -47,12 +47,12 @@
   },
   {
     "id": 211,
-    "name": "Ma haus",
+    "name": "Ma-Cho Temple",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
-    "priceCurrency": "EUR",
-    "lat": 16.5253231,
-    "lng": 120.3404171
+    "price": 0,
+    "priceCurrency": "FREE",
+    "lat": 16.6213174,
+    "lng": 120.3173369
   },
   {
     "id": 211,
