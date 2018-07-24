@@ -36,7 +36,6 @@
     "lat": 16.6290318,
     "lng": 120.3233058
   },
-
   {
     "id": 211,
     "name": "Ma-Cho Temple",
@@ -49,7 +48,7 @@
   {
     "id": 446,
     "name": "Ma haus",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-Stick_Figure.svg.png",
     "price": 90,
     "priceCurrency": "PHP",
     "lat": 16.5253231,
