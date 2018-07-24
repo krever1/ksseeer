@@ -39,9 +39,9 @@
   {
     "id": 210,
     "name": "Ma house",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
-    "price": 135,
-    "priceCurrency": "EUR",
+    "imageUrl": "1200px-Stick_Figure.svg",
+    "price": 0,
+    "priceCurrency": "PHP",
     "lat": 16.525650,
     "lng":  120.340763
   },
