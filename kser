@@ -39,7 +39,7 @@
   {
     "id": 210,
     "name": "Ma house",
-    "imageUrl": "1200px-Stick_Figure.svg",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-Stick_Figure.svg.png",
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.525650,
@@ -48,7 +48,7 @@
   {
     "id": 211,
     "name": "Ma-Cho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-MaChoTemplejf501.jpg",
     "price": 0,
     "priceCurrency": "FREE",
     "lat": 16.6213174,
