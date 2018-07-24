@@ -36,15 +36,7 @@
     "lat": 16.6290318,
     "lng": 120.3233058
   },
-  {
-    "id": 210,
-    "name": "Ma house",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-Stick_Figure.svg.png",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.525650,
-    "lng":  120.340763
-  },
+
   {
     "id": 211,
     "name": "Ma-Cho Temple",
@@ -59,7 +51,7 @@
     "name": "Ma haus",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
     "price": 90,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 16.5253231,
     "lng": 120.3404171
   },
@@ -68,7 +60,7 @@
     "name": "Ma haus",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
     "price": 90,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 16.5253231,
     "lng": 120.3404171
   }
