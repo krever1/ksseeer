@@ -56,11 +56,11 @@
   },
   {
     "id": 888,
-    "name": "Ma haus",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
+    "name": "pugad",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/wpid-img_20141116_0803572.jpg",
+    "price": 777,
     "priceCurrency": "PHP",
-    "lat": 16.5253231,
-    "lng": 120.3404171
+    "lat": 16.336676, 
+    "lng": 120.478836
   }
 ]
