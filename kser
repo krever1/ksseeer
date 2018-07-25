@@ -93,7 +93,7 @@
    {
     "id": 446,
     "name": "IloIlo City",
-    "imageUrl": "https://github.com/krever1/ksseeer/blob/master/391328_415875328447590_390577644_n-1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/391328_415875328447590_390577644_n-1.jpg",
     "price": 90,
     "priceCurrency": "Distance(KM)",
     "lat": 10.724184, 
