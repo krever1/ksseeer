@@ -110,12 +110,12 @@
   },
    {
     "id": 446,
-    "name": "Ma haus",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-Stick_Figure.svg.png",
+    "name": "Siquijor",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/must-visit-places-siquijor-island-philippines-salagdoong-beach.jpg",
     "price": 90,
     "priceCurrency": "Distance(KM)",
-    "lat": 16.5253231,
-    "lng": 120.3404171
+    "lat": 9.188243, 
+    "lng": 123.574862
   },
    {
     "id": 446,
