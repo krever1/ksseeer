@@ -21,7 +21,7 @@
   {
     "id": 3,
     "name": "El Nido Palawan",
-    "imageUrl": "https://github.com/krever1/ksseeer/raw/master/1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1.jpg",
     "price": 1,067,
     "priceCurrency": "Distance(KM)",
     "lat": 11.161158, 
