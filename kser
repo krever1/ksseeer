@@ -20,12 +20,12 @@
   },
   {
     "id": 3,
-    "name": "San juan surf",
+    "name": "El Nido Palawan",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/san-juan-surf-resort.jpg",
     "price": 1500,
     "priceCurrency": "Distance(KM)",
-    "lat": 16.6565645,
-    "lng": 120.3203105
+    "lat": 11.161158, 
+    "lng": 119.483270
   },
   {
     "id": 4,
