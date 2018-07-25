@@ -38,12 +38,12 @@
   },
   {
     "id": 5,
-    "name": "Ma-Cho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-MaChoTemplejf501.jpg",
+    "name": "Legaspi City",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/cover.jpg",
     "price": 0,
     "priceCurrency": "Distance(KM)",
-    "lat": 16.6213174,
-    "lng": 120.3173369
+    "lat": 13.232552, 
+    "lng": 123.737810
   },
   {
     "id": 6,
