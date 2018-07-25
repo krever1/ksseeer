@@ -65,12 +65,12 @@
   },
    {
     "id": 9,
-    "name": "Ma haus",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-Stick_Figure.svg.png",
+    "name": "Majuyod Sandbar, Bais City",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/img-20170225-165919-01.jpg",
     "price": 90,
     "priceCurrency": "Distance(KM)",
-    "lat": 16.5253231,
-    "lng": 120.3404171
+    "lat": 9.588615, 
+    "lng": 123.122549
   },
    {
     "id": 446,
