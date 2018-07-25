@@ -74,12 +74,12 @@
   },
    {
     "id": 446,
-    "name": "Ma haus",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-Stick_Figure.svg.png",
+    "name": "Batanes",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/2.jpg",
     "price": 90,
     "priceCurrency": "Distance(KM)",
-    "lat": 16.5253231,
-    "lng": 120.3404171
+    "lat": 20.436768, 
+    "lng": 121.971851
   },
    {
     "id": 446,
