@@ -83,12 +83,12 @@
   },
    {
     "id": 446,
-    "name": "Ma haus",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-Stick_Figure.svg.png",
+    "name": "Catanduanes",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/March_26_2017-catanduanes-carousel-002.jpg",
     "price": 90,
     "priceCurrency": "Distance(KM)",
-    "lat": 16.5253231,
-    "lng": 120.3404171
+    "lat": 13.839113, 
+    "lng": 124.230576
   },
    {
     "id": 446,
