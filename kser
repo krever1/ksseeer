@@ -92,12 +92,12 @@
   },
    {
     "id": 446,
-    "name": "Ma haus",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-Stick_Figure.svg.png",
+    "name": "IloIlo City",
+    "imageUrl": "https://github.com/krever1/ksseeer/blob/master/391328_415875328447590_390577644_n-1.jpg",
     "price": 90,
     "priceCurrency": "Distance(KM)",
-    "lat": 16.5253231,
-    "lng": 120.3404171
+    "lat": 10.724184, 
+    "lng": 122.553348
   },
    {
     "id": 446,
