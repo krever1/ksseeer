@@ -56,12 +56,12 @@
   },
   {
     "id": 7,
-    "name": "pugad",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/wpid-img_20141116_0803572.jpg",
+    "name": "Vigan",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/untitled.png",
     "price": 777,
     "priceCurrency": "Distance(KM)",
-    "lat": 16.336676, 
-    "lng": 120.478836
+    "lat": 17.569369, 
+    "lng": 120.395514 
   },
    {
     "id": 9,
