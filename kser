@@ -21,7 +21,8 @@
   {
     "id": 3,
     "name": "El Nido Palawan",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/san-juan-surf-resort.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/Things-to-do-in-El-Nido-Philippines-Simizu-Island-El-Nido-Tour-A-1-800x508.jpg
+",
     "price": 1500,
     "priceCurrency": "Distance(KM)",
     "lat": 11.161158, 
