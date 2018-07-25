@@ -119,12 +119,12 @@
   },
    {
     "id": 446,
-    "name": "Ma haus",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-Stick_Figure.svg.png",
+    "name": "Camiguin",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/Camiguin-00-1000x670.jpg",
     "price": 90,
     "priceCurrency": "Distance(KM)",
-    "lat": 16.5253231,
-    "lng": 120.3404171
+    "lat": 9.180853,
+    "lng": 124.665470
   },
    {
     "id": 446,
