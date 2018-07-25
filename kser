@@ -21,8 +21,7 @@
   {
     "id": 3,
     "name": "El Nido Palawan",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/Things-to-do-in-El-Nido-Philippines-Simizu-Island-El-Nido-Tour-A-1-800x508.jpg
-",
+    "imageUrl": "https://github.com/krever1/ksseeer/raw/master/1.jpg",
     "price": 1500,
     "priceCurrency": "Distance(KM)",
     "lat": 11.161158, 
