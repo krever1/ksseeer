@@ -128,11 +128,11 @@
   },
    {
     "id": 446,
-    "name": "Ma haus",
-    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1200px-Stick_Figure.svg.png",
+    "name": "Carnaza Island, Cebu",
+    "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/carnaza-island-7.jpg",
     "price": 90,
     "priceCurrency": "Distance(KM)",
-    "lat": 16.5253231,
-    "lng": 120.3404171
+    "lat": 11.512080, 
+    "lng": 124.097453
   }
 ]
