@@ -13,7 +13,7 @@
     "id": 2,
     "name": "Anawangin Beach",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/Anawangin-1.jpg",
-    "price": 214,
+    "price": 0,
     "priceCurrency": "Distance(KM)",
     "lat": 14.879670,  
     "lng": 120.070489
@@ -22,7 +22,7 @@
     "id": 3,
     "name": "El Nido Palawan",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/1.jpg",
-    "price": 1,067,
+    "price": 0,
     "priceCurrency": "Distance(KM)",
     "lat": 11.161158, 
     "lng": 119.483270
@@ -31,7 +31,7 @@
     "id": 4,
     "name": "Danao Bohol",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/maxresdefault.jpg",
-    "price": 1,365,
+    "price": 0,
     "priceCurrency": "Distance(KM)",
     "lat": 9.949555, 
     "lng": 124.219155
@@ -40,7 +40,7 @@
     "id": 5,
     "name": "Legaspi City",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/cover.jpg",
-    "price": 766,
+    "price": 0,
     "priceCurrency": "Distance(KM)",
     "lat": 13.232552, 
     "lng": 123.737810
@@ -49,7 +49,7 @@
     "id": 6,
     "name": "Langun-Gobingob Caves, Samar",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/14358757-183449885417903-2654275992163450115-n_orig.jpg",
-    "price": 1,103,
+    "price": 0,
     "priceCurrency": "Distance(KM)",
     "lat": 11.931025, 
     "lng": 125.032003
@@ -58,7 +58,7 @@
     "id": 7,
     "name": "Vigan",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/untitled.png",
-    "price": 136,
+    "price": 0,
     "priceCurrency": "Distance(KM)",
     "lat": 17.569369, 
     "lng": 120.395514 
@@ -67,7 +67,7 @@
     "id": 9,
     "name": "Majuyod Sandbar, Bais City",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/img-20170225-165919-01.jpg",
-    "price": 966,
+    "price": 0,
     "priceCurrency": "Distance(KM)",
     "lat": 9.588615, 
     "lng": 123.122549
@@ -76,7 +76,7 @@
     "id": 446,
     "name": "Batanes",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/2.jpg",
-    "price": 788,
+    "price": 0,
     "priceCurrency": "Distance(KM)",
     "lat": 20.436768, 
     "lng": 121.971851
@@ -85,7 +85,7 @@
     "id": 446,
     "name": "Catanduanes",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/March_26_2017-catanduanes-carousel-002.jpg",
-    "price": 868,
+    "price": 0,
     "priceCurrency": "Distance(KM)",
     "lat": 13.839113, 
     "lng": 124.230576
@@ -94,7 +94,7 @@
     "id": 446,
     "name": "IloIlo City",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/391328_415875328447590_390577644_n-1.jpg",
-    "price": 928,
+    "price": 0,
     "priceCurrency": "Distance(KM)",
     "lat": 10.724184, 
     "lng": 122.553348
@@ -103,7 +103,7 @@
     "id": 446,
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/White_sand_beach_Boracay_Island_-_panoramio_1.jpg",
-    "price": 711,
+    "price": 0,
     "priceCurrency": "Distance(KM)",
     "lat": 11.967771, 
     "lng": 121.923109
@@ -112,7 +112,7 @@
     "id": 446,
     "name": "Siquijor",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/must-visit-places-siquijor-island-philippines-salagdoong-beach.jpg",
-    "price": 877,
+    "price": 0,
     "priceCurrency": "Distance(KM)",
     "lat": 9.188243, 
     "lng": 123.574862
@@ -121,7 +121,7 @@
     "id": 446,
     "name": "Camiguin",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/Camiguin-00-1000x670.jpg",
-    "price": 566,
+    "price": 0,
     "priceCurrency": "Distance(KM)",
     "lat": 9.180853,
     "lng": 124.665470
@@ -130,7 +130,7 @@
     "id": 446,
     "name": "Carnaza Island, Cebu",
     "imageUrl": "https://raw.githubusercontent.com/krever1/ksseeer/master/carnaza-island-7.jpg",
-    "price": 1,124,
+    "price": 0,
     "priceCurrency": "Distance(KM)",
     "lat": 11.512080, 
     "lng": 124.097453
